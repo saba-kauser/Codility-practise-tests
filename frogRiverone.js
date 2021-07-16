@@ -12,4 +12,4 @@ const FrogRiverOne = function (X, A) {
   return -1;
 };
 
-console.log(FrogRiverOne(2, [2, 2, 2, 2, 2]));
+// console.log(FrogRiverOne(2, [2, 2, 2, 2, 2]));
