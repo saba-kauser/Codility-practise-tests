@@ -14,4 +14,4 @@ const maxCounter = function (N, A) {
   return count;
 };
 
-console.log(maxCounter(5, [3, 4, 4, 6, 1, 4, 4]));
+// console.log(maxCounter(5, [3, 4, 4, 6, 1, 4, 4]));
