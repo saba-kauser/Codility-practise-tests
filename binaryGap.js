@@ -13,4 +13,4 @@ const binaryGap = function (N) {
   return parseInt(finalMax);
 };
 
-console.log(`The maximum Binary gap is : ${binaryGap(483)}`);
+// console.log(`The maximum Binary gap is : ${binaryGap(483)}`);
